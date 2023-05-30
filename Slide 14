@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Videos</title>
+      <link rel="charset" href="style.css">
+    </head>
+    <body>
+      <a href="Slide 1.html">Go Back</a>
+      <h1>Videos</h1>
+      <video width="320" height="240">
+        <source src="1. reading at 15months.mp4" type="video/mp4">
+      </video>
+      <video width="320" height="240">
+        <source src="2.Countries in Africa.mp4" type="video/mp4">
+      </video>
+      <video width="320" height="240">
+        <source src="3.Countries in North&South America.mp4" type="video/mp4">
+      </video>
+    </body>
+  </html>
