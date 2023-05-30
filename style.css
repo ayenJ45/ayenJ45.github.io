@@ -22,3 +22,11 @@
   flex: 33.3%;
   padding: 2px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+  background-color: green;
+}
