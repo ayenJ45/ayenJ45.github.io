@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Monomaniac+One&family=Roboto&display=swap');
+*{
+	background-color: #EFEFEF;
+	font-family: Roboto;
+	text-align: center;
+}
+
+.music{
+  display: flex;
+}
+
+.m_picture{
+  flex: 50%;
+  padding: 2px;
+}
+
+.ach{
+  display: flex;
+}
+
+.a_picture{
+  flex: 33.3%;
+  padding: 2px;
+}
